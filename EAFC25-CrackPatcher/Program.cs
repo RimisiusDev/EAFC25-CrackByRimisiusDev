@@ -13,7 +13,7 @@ namespace EAFC25_CrackPatcher
         static void Main(string[] args)
         {
             Console.Title = "EAFC25-CrackPatcher by RimisiusDev";
-            if (!File.Exists("EAFC25_CrackByRimisiusDev.zip"))
+            if (!File.Exists("EAFC25_CrackByRimisiusDev_SHOWCASE.zip"))
             {
                 Console.WriteLine("This Zip File is not Exist... Pls Download EAFC25 Crack by RimisiusDev or NOT UNINSTALL THIS CRACK!!!");
                 Environment.Exit(0);
