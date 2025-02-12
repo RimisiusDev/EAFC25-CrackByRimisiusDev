@@ -12,7 +12,7 @@ namespace EAFC25_CrackPatcher
     {
         static void Main(string[] args)
         {
-            Console.Title = "EAFC25-CrackPatcher by RimisiusDev";
+            Console.Title = "EAFC25-CrackPatcher by RimisiusDev(ONLY SHOWCASE)";
             if (!File.Exists("EAFC25_CrackByRimisiusDev_SHOWCASE.zip"))
             {
                 Console.WriteLine("This Zip File is not Exist... Pls Download EAFC25 Crack by RimisiusDev or NOT UNINSTALL THIS CRACK!!!");
@@ -20,7 +20,7 @@ namespace EAFC25_CrackPatcher
             }
             else
             {
-                Console.WriteLine("Please Write you're Destination Folder: ");
+                Console.WriteLine("Please Write you're Destination Folder(WORKS ONLY ON SHOWCASE): ");
                 string Dest_Folder = Console.ReadLine();
                 if (File.Exists(Dest_Folder + "\\EAFC25.exe"))
                 {
@@ -29,7 +29,7 @@ namespace EAFC25_CrackPatcher
                 }
                 else
                 {
-                    Console.WriteLine("This File Is Deleted Manually!!! Extracting...");
+                    Console.WriteLine("This File Is Deleted Manually or This File(EAFC25.exe) is not Founded in You're Destination Folder!!! \nExtracting...");
                     ZipFile.ExtractToDirectory("EAFC25_CrackByRimisiusDev.zip", Dest_Folder.ToString());
                     Environment.Exit(443);
                 }
