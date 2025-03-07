@@ -18,6 +18,7 @@ int main()
 		printf("Successfully Founded FC25.exe and Launching...");
 		CloseHandle(pi.hProcess);
 		CloseHandle(pi.hThread);
+		Sleep(4500)
 		exit(344);
 	}
 	return 0;
