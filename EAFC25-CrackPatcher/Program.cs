@@ -15,12 +15,12 @@ namespace EAFC25_CrackPatcher
             Console.Title = "EAFC25-CrackPatcher by RimisiusDev(ONLY SHOWCASE)";
             if (!File.Exists("EAFC25_CrackByRimisiusDev_SHOWCASE.zip"))
             {
-                Console.WriteLine("Coming Soon will be Updated for TU 9.1")
-                // Deprecated Due to This Game is Now Updated to TU 9.1
+                Console.WriteLine("Soon will be FULL VERSION!!!")
+                // Deprecated because soon will be FULL VERSION!!!
             }
             else
             {
-               Console.WriteLine("Soon will be Updated For TU 9.1")
+               Console.WriteLine("Soon will be FULL VERSION!!!")
                Environment.Exit(221)
             }
             Environment.Exit(2212);
