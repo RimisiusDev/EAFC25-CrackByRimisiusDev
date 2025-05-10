@@ -1,7 +1,7 @@
 # EAFC25-CrackByRimisiusDev
 
 > [!WARNING]
-> **ONLY SHOWCASE(DEMO VERSION) IS AVAILABLE FOR APPLYING CRACK BY ME(as RimisiusDev)... Thanks!!! Original(FULL VERSION) Crack for Game EAFC 25 Will be Later!!!**
+> **ONLY SHOWCASE(DEMO VERSION) IS AVAILABLE FOR APPLYING CRACK BY ME(as RimisiusDev)... Original(FULL VERSION) Crack for Game EAFC 25 Will be Later!!! Thanks for Reading This Warning!!!**
 >
 > Soon(Maybe Soon... I'm not Sure) Will be Added FULL VERSION OF EAFC 25...
 
