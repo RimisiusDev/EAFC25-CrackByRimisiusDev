@@ -16,6 +16,7 @@ namespace EAFC25_CrackPatcher
             if (!File.Exists("EAFC25_CrackByRimisiusDev_SHOWCASE.zip"))
             {
                 Console.WriteLine("Soon will be FULL VERSION!!!")
+                Environment.Exit(4372)
                 // Deprecated because soon will be FULL VERSION!!!
             }
             else
