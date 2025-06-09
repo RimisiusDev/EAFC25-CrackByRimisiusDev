@@ -8,7 +8,7 @@
 This is My First Trying to Crack EAFC 25 using Origin and Denuvo Emulator(Anadius)... So Enjoy to use this!!!
 
 > [!CAUTION]
-> You Need Update Ticket if you updated Windows 10, 11 or you updated you're PC Drivers(GPU, CPU, Motherboard, Disks, etc)... Thanks for Reading This!!!
+> You Need Update Ticket if updated Windows 10, 11 or you updated you're PC Drivers(GPU, CPU, Motherboard, Disks, etc)... Thanks for Reading This!!!
 
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 
