@@ -15,3 +15,5 @@ This is My First Trying to Crack EAFC 25 using Origin and Denuvo Emulator(Anadiu
 ## Donations
 
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
+
+**BTC Wallet Address**: bc1qz987mqatjrhuurme49sleq75a80atysgyska9e
